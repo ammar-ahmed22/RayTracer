@@ -122,7 +122,7 @@ int main(){
     // Image is 400 pixels wide with 16:9 aspect ratio
     const int image_width = 400;
     const int image_height = static_cast<int>(image_width / aspect_ratio);
-    const int samples_pp = 100;
+    const int samples_pp = 300;
     const int max_depth = 50;
 
     // ============= World ==============
