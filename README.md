@@ -13,6 +13,9 @@ only spheres can be rendered with various materials that have various properties
 
 ## Screenshots
 
-![Rendered Scene](./output/sample_300.png?raw=true)
+<p align="center" >
+    <img src="./output/sample_300.png?raw=true" alt="Rendered scene" >
+</p>
+
 
 
